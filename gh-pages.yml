@@ -33,4 +33,4 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: kei67/kei67.github.io
           publish_branch: main
-          # cname: kei67.com
+          cname: kei67.com
